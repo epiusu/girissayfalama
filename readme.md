@@ -1,5 +1,8 @@
 Aşağıda, oluşturduğumuz Giriş Sayfası (Landing Page) için kapsamlı bir `README.md` kullanım rehberi bulunmaktadır. Bu rehberi projenizin kök dizininde veya WordPress tema klasörünüzde `README.md` olarak kaydedebilirsiniz.
 
+**Tema Giriş Önizleme**
+<img src="https://raw.githubusercontent.com/epiusu/girissayfalama/refs/heads/main/screenshot.jpg" width="963" height="659" class="aligncenter size-full" /></a>
+
 ```
 \# 🌐 WordPress Giriş Sayfası (Landing Page)  
   
